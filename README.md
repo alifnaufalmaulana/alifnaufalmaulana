@@ -41,7 +41,9 @@ Proyek ini adalah sistem berbasis web untuk memonitor status perangkat secara re
 - Simulasi data perangkat (belum menggunakan hardware langsung)
 
 **Catatan:**
-Proyek ini masih dalam tahap pengembangan lebih lanjut dan belum sepenuhnya terhubung dengan perangkat IoT secara langsung.
+- Sistem masih menggunakan data dummy / simulasi
+- Belum terhubung langsung ke perangkat IoT
+- Proyek ini masih dalam tahap perbaikan & pengembangan lebih lanjut 
 
 ---
 
