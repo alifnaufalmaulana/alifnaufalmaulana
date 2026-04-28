@@ -1,6 +1,6 @@
 # 👋 Halo, saya Alif Naufal Maulana
 
-🎓 Fresh Graduate Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Banyuwangi
+🎓 Fresh Graduate Teknologi Rekayasa Perangkat Lunak, Politeknik Negeri Banyuwangi  
 📍 Indonesia  
 
 ---
