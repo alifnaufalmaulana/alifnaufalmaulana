@@ -49,7 +49,7 @@ Proyek ini adalah sistem berbasis web untuk memonitor status perangkat secara re
 
 ## 🎯 Tujuan Saya Saat Ini
 
-- Memperdalam dasar web development
+- Memperdalam dasar WEB development
 - Memahami konsep IoT secara lebih nyata (tidak hanya simulasi)
 - Membangun project yang lebih stabil dan siap digunakan
 
